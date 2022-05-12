@@ -1,0 +1,60 @@
+body {
+    background-color: rgba(238, 234, 234, 0.959);
+    margin: 0px;
+}
+
+.container-card {
+    border: 1px solid rgb(240, 234, 234);
+    background-color: white;
+    margin : 100px;
+}
+
+.card {
+    padding: 50px 230px;
+}
+
+.content {
+    font-size: 20px;
+}
+
+.contact button {
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    width: 100px;
+    height:30px;
+}
+
+.download-section {
+    margin-top: 20px;
+}
+
+.download-section .download {
+    display: inline-block;
+    font-size: 20px;
+}
+
+.icon-socmed {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.group-socmed {
+    display: inline-block;
+    font-size: 40px;
+    padding-left: 25px;
+    border-radius : 10px;
+}
+
+.image img {
+    border: 1px solid white;
+    border-radius: 5px;
+    width : 320px;
+    height:350px;
+}
+
+.course {
+    font-size: 25px;
+}
+
